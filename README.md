@@ -2,7 +2,7 @@
 Major mode for Ficus files.
 
 ## Features
-This major mode highlights Ficus language keywords, attirbute keywords, types and builtin functions.
+This major mode highlights [Ficus language](https://github.com/vpisarev/ficus) keywords, attirbute keywords, types and builtin functions.
 
 ## Installation
 Copy `ficus-mode.el` to Emacs init folder (usually `~/.emacs.d/`) then add lines to `init.el`:
